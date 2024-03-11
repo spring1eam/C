@@ -1,4 +1,4 @@
-/* 포인터와 배열의 호환성 예1 */
+/* 포인터와 배열의 호환성 예 1 */
 #include <stdio.h>
 void main() {
     char A[] = "CSKNOU";
